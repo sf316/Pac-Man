@@ -16,7 +16,7 @@ Classic Pacman is modeled as both an adversarial and a stochastic search problem
 ### P3: Reinforcement Learning
 Students implement model-based and model-free reinforcement learning algorithms, applied to the AIMA textbook’s Gridworld, Pacman, and a simulated crawling robot.
 
-### P4: tracking
+### P4: Tracking
 Probabilistic inference in a Hidden Markov Model tracks the movement of hidden ghosts in the Pacman world. Students implement exact inference using the forward algorithm and approximate inference via particle filters.
 
 ### P5: Machine Learning: Classification

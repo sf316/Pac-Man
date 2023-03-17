@@ -3,7 +3,7 @@
 ## Overview
 The Pac-Man projects were developed for CS 188. They apply an array of AI techniques to playing Pac-Man. However, these projects don’t focus on building AI for video games. Instead, they teach foundational AI concepts, such as informed state-space search, probabilistic inference, and reinforcement learning. These concepts underly real-world application areas such as natural language processing, computer vision, and robotics.
 
-Projects Overview
+## Projects Overview
 ### P0: UNIX/Python Tutorial
 This short UNIX/Python tutorial introduces students to the Python programming language and the UNIX environment.
 
@@ -22,11 +22,11 @@ Probabilistic inference in a Hidden Markov Model tracks the movement of hidden g
 ### P5: Machine Learning: Classification
 Students implement the perceptron algorithm and neural network models, and apply the models to several tasks including digit classification.
 
-Technical Notes
+## Technical Notes
 The Pac-Man projects are written in pure Python 3.6 and do not depend on any packages external to a standard Python distribution.
 
-Support
+## Support
 This project was supported by the National Science foundation under CAREER grant 0643742. Any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation (NSF).
 
-Credits
+## Credits
 The projects were developed by John DeNero, Dan Klein, Pieter Abbeel, and many others.
